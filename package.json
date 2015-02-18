@@ -1,0 +1,19 @@
+{
+  "name": "hibernateDemo",
+  "version": "1.0.0",
+  "description": "Project based on teaching myself spring + hibernate  initial commit is based on following the tutorial over  at http://viralpatel.net/blogs/spring3-mvc-hibernate-maven-tutorial-eclipse-example/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stvnksslr/spring-hibernate-mysql.git"
+  },
+  "author": "skessler",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stvnksslr/spring-hibernate-mysql/issues"
+  },
+  "homepage": "https://github.com/stvnksslr/spring-hibernate-mysql"
+}
